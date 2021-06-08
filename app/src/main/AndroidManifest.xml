@@ -16,7 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning"
-        tools:replace="android:appComponentFactory"
+
 
         >
         <uses-library android:name="com.google.android.maps" />
